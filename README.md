@@ -4,7 +4,7 @@
     <span> Desafio de Projeto - DIO</span>
 </h1>
 
-O projeto é referente ao desafio de projeto **Otimizando o Sistema Bancário com Python** do módulo **Dominando Python e Suas Estruturas de dados** do Python AI Backend Developer - **Bootcamp Coding The Future Vivo - Python AI Backend Developer 2024** da [Digital Innovation One](https://www.dio.me/).
+O projeto é referente ao desafio de projeto **Modelando o Sistema Bancário em POO com Python** do módulo **Dominando Python e Suas Estruturas de dados** do Python AI Backend Developer - **Bootcamp Coding The Future Vivo - Python AI Backend Developer 2024** da [Digital Innovation One](https://www.dio.me/).
 
 O **objetivo** é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Além da chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
 
